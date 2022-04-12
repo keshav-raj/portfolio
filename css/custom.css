@@ -1,0 +1,29 @@
+/** ADD YOUR AWESOME CODES HERE **/
+.skill-img {
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  display: flex;
+}
+.contact_me_img {
+  object-fit: cover;
+  width: 28px;
+  height: 28px;
+}
+.contact-list-item {
+  display: flex;
+  align-items: center;
+}
+.contact_list_text {
+  margin: 0;
+  padding-left: 24px;
+  font-size: 20px;
+  color: #fff;
+}
+.contact_list_text > a {
+  color: #fff;
+}
+.contact_list_text > a:hover {
+  text-decoration: underline !important;
+  cursor: pointer;
+}
